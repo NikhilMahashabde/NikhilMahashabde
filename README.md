@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikhilmahashabde&skills=JavaScript,Python,TypeScript,C%23,HTML,Java,SCSS,CSS,C%2B%2B)
+![CodersRank Skills Chart][(https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikhilmahashabde&skills=JavaScript,Python,TypeScript,C%23,C,HTML,Java,SCSS,CSS,C%2B%2B)
+
 
 
 <!--
