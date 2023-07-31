@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
-
-<codersrank-skills-chart username="nikhilmahashabde"></codersrank-skills-chart>
-
+![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikhilmahashabde&skills=JavaScript,TypeScript&show-other-skills=true)
 
 <!--
 **NikhilMahashabde/NikhilMahashabde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
