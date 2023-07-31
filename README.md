@@ -4,6 +4,7 @@ Experienced electrical engineer making a dynamic career shift to software engine
 
 Please visit my website to learn more - https://nikhilmahashabde.netlify.app/
 
+### My Tech Stack so far 👋
 ![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikhilmahashabde&skills=JavaScript,Python,TypeScript,C%23,C,HTML,Java,SCSS,CSS,C%2B%2B)
 
 
