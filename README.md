@@ -6,7 +6,7 @@ With a decade of experience under my belt in electrical engineering, manufacturi
 Please visit my website to learn more - https://nikhilmahashabde.netlify.app/
 
 ### My Tech Stack so far 👋
-![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikhilmahashabde&skills=JavaScript,Python,TypeScript,C%23,C,HTML,Java,SCSS,CSS,C%2B%2B,HTML+Razor)
+![CodersRank Skills Chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nikhilmahashabde&skills=JavaScript,Python,TypeScript,C%23,C,HTML,Java,SCSS,CSS,C%2B%2B,HTML%2BRazor)
 
 
 
